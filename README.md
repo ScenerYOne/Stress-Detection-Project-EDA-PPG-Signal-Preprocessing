@@ -3,9 +3,6 @@ This project focuses on processing and analyzing EDA (Electrodermal Activity) an
 
 ## Installation and Setup
 ```
-# Clone the repository
-git clone https://github.com/Jamessurapat26/preprocess-eda-ppg.git
-
 # Install required packages
 pip install -r requirements.txt
 
@@ -59,3 +56,4 @@ python concat-eda.py
 - Columns:
   - LocalTimestamp: Unix timestamp
   - EDA: EDA signal values
+
