@@ -1,4 +1,5 @@
-# Stress Detection Project: EDA & PPG Signal Preprocessing with NeuroKit2
+# An AI-driven Stress Detection System using Physiological Signals 
+This is project Stress Detection Project: EDA & PPG Signal Preprocessing with NeuroKit2
 A complete guide to preprocessing Electrodermal Activity (EDA) and Photoplethysmography (PPG) signals using Python and NeuroKit2, followed by detailed documentation of all available features for stress classification research.
 
 After completing the preprocessing steps, proceed to model training:  
@@ -210,6 +211,7 @@ Returns `signals` (DataFrame) and `info` (dict).
 Reference: https://neuropsychology.github.io/NeuroKit/functions/ppg.html
 
 ---
+
 
 
 
